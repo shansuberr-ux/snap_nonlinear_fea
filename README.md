@@ -41,11 +41,11 @@ Snap-fit hooks undergo large elastic deflections during assembly — routinely e
 
 | Snap Geometry — CAD Model | Deformation at 30N Removal |
 |---|---|
-| ![Model](images/WhatsApp%20Image%202026-05-02%20at%2016.57.45.jpeg) | ![Deformation](images/WhatsApp%20Image%202026-05-02%20at%2016.57.45%20(2).jpeg) |
+| ![Model](https://github.com/shansuberr-ux/snap_nonlinear_fea/blob/main/wing%20evaluation.jpeg) | ![Deformation](images/WhatsApp%20Image%202026-05-02%20at%2016.57.45%20(2).jpeg) |
 
 | Force-Displacement Curve & Stress Map |
 |---|
-| ![FEA results](images/WhatsApp%20Image%202026-05-02%20at%2016.57.45%20(3).jpeg) |
+| ![FEA results](https://github.com/shansuberr-ux/snap_nonlinear_fea/blob/main/snap%20resultant.jpeg) |
 
 The force-displacement curve clearly shows the snap engagement peak at ~38N, followed by a drop as the snap clears — the classic non-linear snap-fit signature. Peak stress of 57.2 MPa occurs at the fillet, close to the 65 MPa yield strength (FOS 1.13), which drove the recommendation to increase fillet radius to 1.5mm.
 
