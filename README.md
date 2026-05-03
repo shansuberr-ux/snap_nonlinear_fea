@@ -1,8 +1,8 @@
-# Snap-Fit Non-Linear FEA — Production Antenna Housing
+# Snap-Fit Non-Linear FEA 
 
-> **Ansys Mechanical · Non-Linear FEA · Plastic Design · JMA Wireless**
+> **Ansys Mechanical · Non-Linear FEA · Plastic Design ·**
 
-Non-linear finite element analysis of snap-fit features on a production 5G antenna housing at JMA Wireless. The simulation captures large-deformation behavior during both insertion and removal — providing quantified snap-in force, removal force, and FOS data to drive design decisions on a real product.
+Non-linear finite element analysis of snap-fit features. The simulation captures large-deformation behavior during both insertion and removal — providing quantified snap-in force, removal force, and FOS data to drive design decisions on a real product.
 
 ---
 
@@ -10,10 +10,10 @@ Non-linear finite element analysis of snap-fit features on a production 5G anten
 
 | Item | Detail |
 |---|---|
-| **Context** | Production snap-fit on 5G antenna housing — JMA Wireless |
+| **Context** | Production snap-fit design |
 | **Analysis Type** | Non-linear static structural (large deformation) |
 | **Software** | Ansys Mechanical |
-| **Geometry** | Cantilevered snap-fit wings on antenna chassis |
+| **Geometry** | Cantilevered snap-fit wings for easy removal and assembly|
 | **Iterations** | Multiple design versions simulated (V10+) |
 
 ---
@@ -54,7 +54,7 @@ The force-displacement curve clearly shows the snap engagement peak at ~38N, fol
 ## Simulation Workflow
 
 1. Import snap-fit CAD, suppress non-critical features
-2. Assign elastic-plastic material properties for target polymer
+2. Assign elastic-plastic material properties for the target polymer
 3. Fixed support at chassis base; displacement-controlled loading on mating surface
 4. Large deformation ON; substep convergence control
 5. Extract force-displacement curve, von Mises stress, total deformation
