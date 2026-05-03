@@ -41,7 +41,7 @@ Snap-fit hooks undergo large elastic deflections during assembly — routinely e
 
 | Snap Geometry — CAD Model | Deformation at 30N Removal |
 |---|---|
-| ![Model](https://github.com/shansuberr-ux/snap_nonlinear_fea/blob/main/wing%20evaluation.jpeg) | ![Deformation](images/WhatsApp%20Image%202026-05-02%20at%2016.57.45%20(2).jpeg) |
+| ![Model](https://github.com/shansuberr-ux/snap_nonlinear_fea/blob/main/pic.jpeg) | ![Deformation](https://github.com/shansuberr-ux/snap_nonlinear_fea/blob/main/wing%20evaluation.jpeg) |
 
 | Force-Displacement Curve & Stress Map |
 |---|
